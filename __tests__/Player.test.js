@@ -1,5 +1,3 @@
-const { expect, test } = require('@jest/globals');
-const { array } = require('yargs');
 const Player = require('../lib/Player');
 const Potion = require('../lib/Potion');
 
